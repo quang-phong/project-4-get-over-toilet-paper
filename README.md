@@ -29,11 +29,10 @@ The visualization is built using Tableau. The infographic follows a storyline wh
 ## 🧱 Structure?
 This repository contains 3 folders:
 - **data**, including:
-    + raw (external data, and primary data in their rawest formats)
-    + temp (temporary data sets which only function to support data processing decisions)
-    + processed (filtered selected data based on study scope, study goals and data processing trials)
-    + final (the data set ready for modelling)
-- **src**
+    + raw (secondary data in their rawest formats)
+    + final (the data set ready for visualization)
+- **src**, including:
+    + the main Tableau workbook
 - **media** (media files)
   
 ## ✌️ Result?  
