@@ -18,7 +18,7 @@ Year: 2022
 ## 🤷 Why?  
 Inspired by the so-called "Toilet Paper Shortages" during the Covid era, specifically in 2020 and 2021, in different regions of the world, I decide to dedicate one interactive inforgraphics to this topic. 
 
-In the era of digitalization, you are tempted to use less paper: buy tablet for note-taking, purchase e-books for reading, and send your CV in PDF form to recruiters. Even vaccination certificates do not come in a physical form in many countries. However, there is one thing that, like most the people, you may forget to "digitize-: toilet paper. If you don't believe that humans should "get over*’ toilet paper or haven't found a good reason to, this paperless infographics is for you. Or if you already get rid of it in your daily life, you can also read this to feel proud about your smart decision.
+In the era of digitalization, you are tempted to use less paper: buy tablet for note-taking, purchase e-books for reading, and send your CV in PDF form to recruiters. Even vaccination certificates do not come in a physical form in many countries. However, there is one thing that, like most the people, you may forget to "digitize-: toilet paper. If you don't believe that humans should "get over*’ toilet paper or haven't found a good reason to, this paperless infographic is for you. Or if you already get rid of it in your daily life, you can also read this to feel proud about your smart decision.
 
 ## ⚒️ How?  
 Data is agglomerated from different sources: Statista, World Bank, MSR Open Data, Scientific American, World Atlas, etc before being cleaned and processed for visualization.
@@ -40,7 +40,7 @@ This repository contains 3 folders:
 
 After finishing the project, I can see that the shortage crisis of toilet paper was not actually a bad thing. It was a sign that some of us had been unnecessarily dependent on it. By looking for more eco-friendly solutions and using toilet paper in moderation, we can solve the shortages while contributing to a sustainable future.
 
-Some screenshots of the infographics:
+Some screenshots of the infographic:
 
 <p align="center" width="100%"> 
     <img src="https://github.com/quang-phong/project-4-get-over-toilet-paper/blob/main/media/img/screenshot-1.png" width="90%">
@@ -62,10 +62,10 @@ Some screenshots of the infographics:
 </p>
 
 
-The full infographics can be seen here:
+The **full infographic** can be seen here:
 > https://public.tableau.com/app/profile/quang.phong/viz/toilet-paper-infographics-quang-phong-6286943/INFOGRAPHIC-GET-OVER-TOILET-PAPER
 
 Remember to stop scrolling and stay in each session for a while to interact (click, hover) with the graphs to gain more information.
 
 > **Note**
-> The infographic was meant to be shown on a very big screen for educational purposes. Therefore, if you view it on a normal monitor, please zoom out on your web browser to 70% to see the overview. Then you can zoom in to view each graph more clearly.
+> The infographic was meant to be shown on a very big screen for educational purposes. Therefore, if you view it on a normal monitor, please **zoom out** on your web browser to 70% to see the overview. Then you can zoom in to view each graph more clearly.
