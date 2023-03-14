@@ -40,8 +40,32 @@ This repository contains 3 folders:
 
 After finishing the project, I can see that the shortage crisis of toilet paper was not actually a bad thing. It was a sign that some of us had been unnecessarily dependent on it. By looking for more eco-friendly solutions and using toilet paper in moderation, we can solve the shortages while contributing to a sustainable future.
 
+Some screenshots of the infographics:
+
+<p align="center" width="100%"> 
+    <img src="https://github.com/quang-phong/project-4-get-over-toilet-paper/blob/main/media/img/screenshot-1.png" width="90%">
+</p>
+<p align="center" width="100%"> 
+    <img src="https://github.com/quang-phong/project-4-get-over-toilet-paper/blob/main/media/img/screenshot-2.png" width="90%">
+</p>
+
+<p align="center" width="100%"> 
+    <img src="https://github.com/quang-phong/project-4-get-over-toilet-paper/blob/main/media/img/screenshot-3.png" width="90%">
+</p>
+
+<p align="center" width="100%"> 
+    <img src="https://github.com/quang-phong/project-4-get-over-toilet-paper/blob/main/media/img/screenshot-4.png" width="90%">
+</p>
+
+<p align="center" width="100%"> 
+    <img src="https://github.com/quang-phong/project-4-get-over-toilet-paper/blob/main/media/img/screenshot-5.png" width="90%">
+</p>
+
+
 The full infographics can be seen here:
 > https://public.tableau.com/app/profile/quang.phong/viz/toilet-paper-infographics-quang-phong-6286943/INFOGRAPHIC-GET-OVER-TOILET-PAPER
 
 Remember to stop scrolling and stay in each session for a while to interact (click, hover) with the graphs to gain more information.
 
+> **Note**
+> The infographic was meant to be shown on a very big screen for educational purposes. Therefore, if you view it on a normal monitor, please zoom out on your web browser to 70% to see the overview. Then you can zoom in to view each graph more clearly.
