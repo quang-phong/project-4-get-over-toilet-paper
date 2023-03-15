@@ -21,7 +21,7 @@ Inspired by the so-called "Toilet Paper Shortages" during the Covid era, specifi
 In the era of digitalization, you are tempted to use less paper: buy tablet for note-taking, purchase e-books for reading, and send your CV in PDF form to recruiters. Even vaccination certificates do not come in a physical form in many countries. However, there is one thing that, like most the people, you may forget to "digitize-: toilet paper. If you don't believe that humans should "get over*’ toilet paper or haven't found a good reason to, this paperless infographic is for you. Or if you already get rid of it in your daily life, you can also read this to feel proud about your smart decision.
 
 ## ⚒️ How?  
-Data is agglomerated from different sources: Statista, World Bank, MSR Open Data, Scientific American, World Atlas, etc before being cleaned and processed for visualization.
+The data are agglomerated from different sources: Statista, World Bank, MSR Open Data, Scientific American, World Atlas, etc before being cleaned and processed for visualization.
 
 The visualization is built using Tableau. The infographic follows a storyline when scrolled down. Different types of graphs, including advanced ones are shown to present the message in an creative and memorable way.
 
